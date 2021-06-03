@@ -10,5 +10,7 @@ It contains the following files:
 - **QTS_JSON_CTEXT_clean_punc_no_comm_no_addnames.json**: file used for levenstein_immortals. Both variants of corpora used for this project are essentially the same, differences lying in markup and pre-processing.
 - **thesis_environment.yml**: environment requirements to run the code. Since it was also used for other projects, it might contain more packages that were actually used for this project. 
 
-For tokenization code, see https://github.com/mzorki/tutorials
+For tokenization code, see https://github.com/mzorki/tutorials 
+<br>
+[Here is my short post with more detailed information on tokenization of Classical Chinese](https://digitalorientalist.com/2021/02/16/defining-word-boundaries-for-modern-and-classical-chinese/) <br>
 The link above also contains a tutorial on how to run Jupyter notebooks in Google Colab without the need to install anything or extensive knowledge of programming – it can be followed to run the code from this repository as well.
