@@ -4,8 +4,9 @@ This is a collection of Jupyter notebook files used for the article "Daoist immo
 It contains the following files:
 
 - **collocations_immortals.ipynb**: code that was used to find collocates to _xian_ 仙 in QTS
-- **patterns_immortals.ipynb**: code that was used to find lines similar to ones that used _xian_ 仙 in QTS and filter out those that have _xian_ substituted with something else
+- **levenstein_immortals.ipynb**: code that was used to find lines similar to ones that used _xian_ 仙 in QTS and filter out those that have _xian_ substituted with something else
 - **2-word_dic_QTS.txt**: the file with tokenized QTS. 
+- **QTS_JSON_CTEXT_clean_punc_no_comm_no_addnames.json**: file used for levenstein_immortals. Both variants of corpora used for this project are essentially the same, differences lying in markup and pre-processing.
 - **thesis_environment.yml**: environment requirements to run the code. Since it was also used for other projects, it might contain more packages that were actually used for this project. 
 
 For tokenization code, see https://github.com/mzorki/tutorials
