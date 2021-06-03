@@ -1,8 +1,6 @@
 # qts_immortals
 
 This is a collection of Jupyter notebook files used for the article "Daoist immortals as a poetic image in Tang dynasty: a corpus study." (now in draft form).
-<br><br>
-
 ___
 It contains the following files:
 
