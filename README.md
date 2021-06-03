@@ -1,6 +1,7 @@
 # qts_immortals
 
-This is a collection of Jupyter notebook files used for the article "Daoist immortals as a poetic image in Tang dynasty: a corpus study."
+This is a collection of Jupyter notebook files used for the article "Daoist immortals as a poetic image in Tang dynasty: a corpus study." (now in draft form).
+<br>
 It contains the following files:
 
 - **collocations_immortals.ipynb**: code that was used to find collocates to _xian_ 仙 in QTS
